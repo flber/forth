@@ -1,2 +1,2 @@
 # forth
-Some test of the forth language (gforth)
+Some tests of the forth language (gforth)
